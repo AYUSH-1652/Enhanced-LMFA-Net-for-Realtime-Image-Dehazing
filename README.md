@@ -69,3 +69,6 @@ The final model improves structural similarity while maintaining real-time perfo
 ## Authors
 Rudra Pratap Singh  
 Ayush Joshi
+
+## Conclusion
+Enhanced LMFA-Net improves dehazing quality using adaptive dual-branch restoration, channel attention, and edge-aware loss while remaining lightweight. Results show higher SSIM with competitive PSNR and real-time performance, making it suitable for practical deployment.
