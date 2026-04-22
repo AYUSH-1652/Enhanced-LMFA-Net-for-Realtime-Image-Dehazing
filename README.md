@@ -71,4 +71,5 @@ Rudra Pratap Singh
 Ayush Joshi
 
 ## Conclusion
-Enhanced LMFA-Net improves dehazing quality using adaptive dual-branch restoration, channel attention, and edge-aware loss while remaining lightweight. Results show higher SSIM with competitive PSNR and real-time performance, making it suitable for practical deployment.
+
+This project enhances LMFA-Net for real-time image dehazing by introducing adaptive dual-branch restoration, channel attention, and an edge-aware loss. These improvements enable better structural preservation and robustness to noise while maintaining a lightweight design. Experimental results on the RESIDE dataset show improved SSIM with competitive PSNR and minimal computational overhead. The model remains suitable for real-time and resource-constrained applications, with future work focusing on real-world generalization, multi-scale modeling, and video dehazing.
