@@ -4,19 +4,19 @@ This repository contains an enhanced version of LMFA-Net for real-time single im
 
 ## Project Structure
 .
-├── models/                  # Network architectures  
-├── utils/                   # Helper and preprocessing functions  
-├── PSNR_SSIM/               # Evaluation metrics  
-├── checkpoints/             # Saved model weights  
-├── outputs/                 # Generated results (ignored)  
-├── train_baseline.py        # Train baseline LMFA-Net  
-├── train_adaptive_denoise.py# Train + denoising branch  
-├── train_final.py           # Train final enhanced model  
-├── test_baseline.py         # Evaluate baseline  
-├── test_adaptive_denoise.py # Evaluate adaptive model  
-├── test_final.py            # Evaluate final model  
-├── comparative_test_rtts.py # Real-world testing  
-├── video_demo.py            # Demo on video  
+├── models/                  
+├── utils/                   
+├── PSNR_SSIM/               
+├── checkpoints/             
+├── outputs/                 
+├── train_baseline.py        
+├── train_adaptive_denoise.py
+├── train_final.py           
+├── test_baseline.py         
+├── test_adaptive_denoise.py 
+├── test_final.py            
+├── comparative_test_rtts.py 
+├── video_demo.py            
 ├── requirements.txt  
 └── README.md  
 
